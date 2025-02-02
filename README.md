@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">- Software Enginner<br>- Web Developer</p>
+<p align="left">- 💻 Desenvolvedor Backend em formação
+📌 Buscando oportunidades para aprimorar minhas habilidades e contribuir com projetos desafiadores
+⚙️ Tecnologias: Python, Flask, SQLite, Selenium, Web Scraping
+🚀 Trabalhando em automações e APIs para resolver problemas do dia a dia
 
 ###
 
