@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 💻 Desenvolvedor Backend em formação
+<p align="left">- 💻 Desenvolvedor Backend
 📌 Buscando oportunidades para aprimorar minhas habilidades e contribuir com projetos desafiadores
 ⚙️ Tecnologias: Python, Flask, SQLite, Selenium, Web Scraping
 🚀 Trabalhando em automações e APIs para resolver problemas do dia a dia
